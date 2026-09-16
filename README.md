@@ -1,8 +1,10 @@
 16-Sep-2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: ncwood@yahoo.com, selchie2017@gmail.com
-At: 2026-09-16 17:09:03
-Id: qp1r8r1W
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: bhipaintinginc@yahoo.com, noahsg134@gmail.com
+At: 2026-09-16 17:09:42
+Id: T4f3HRds
